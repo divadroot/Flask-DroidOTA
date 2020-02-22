@@ -1,0 +1,9 @@
+DEBUG = True
+SECRET_KEY = "1B0Mm63J5k6yRRIW"
+
+# MySQL database settings
+MYSQL_DATABASE_HOST = "localhost"
+MYSQL_DATABASE_PORT = 3306
+MYSQL_DATABASE_USER = "admin"
+MYSQL_DATABASE_PASSWORD = "totallysecure"
+MYSQL_DATABASE_DB = "droidota"
